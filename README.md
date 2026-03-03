@@ -95,3 +95,11 @@ scikit-learn
 pandas
 numpy
 matplotlib
+
+
+
+▶️ How to Run
+git clone https://github.com/your-username/sentiment-analysis-word2vec-rnn-lstm.git
+cd sentiment-analysis-word2vec-rnn-lstm
+pip install -r requirements.txt
+jupyter notebook
